@@ -34,28 +34,6 @@ lightgallery: false
 license: ""
 slug: start-here
 ---
-
-# Arberia Theme
-
-![Arberia Hugo Theme Screenshot](/start-here.webp)
-
-## Live demo
-
-See https://arberiatheme.netlify.app/
-
-## Installation
-
-    $ mkdir themes
-    $ cd themes
-    $ git submodule add https://github.com/antedoro/arberia-test.git 
-    
-
-See [the Hugo documentation](https://gohugo.io/themes/installing/) for more information.
-
-## Links
-
-Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
-
 # Arberia Theme for Hugo
 
 **Arberia Theme** is a theme for the Hugo static site generator inspired from RealPython site.
@@ -64,7 +42,6 @@ Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
 
 The goal of this project is to add more features and customization to the og theme.
 
-
 ## Live demo
 
 See [https://arberiatheme.netlify.app/](https://arberiatheme.netlify.app/)
@@ -72,7 +49,6 @@ See [https://arberiatheme.netlify.app/](https://arberiatheme.netlify.app/)
 ## Installation/updating
 
 a) Simple mode: **Download as Zip** from Github Page **and extract in your themes directory** or
-
 
 b) Inside the folder of your Hugo site, run:
 
@@ -83,11 +59,10 @@ b) Inside the folder of your Hugo site, run:
 
 After that copy /exampleSite content on /root_site and add in `config.toml`:
 
-```toml
-theme: "arberia"
-```
+`theme: "arberia"`
+
     
-To update theme installe in b mode:
+To update theme installed in b mode:
 
 ```bash
 cd themes/arberia
@@ -122,36 +97,16 @@ Follow [Quick Start](https://gohugo.io/getting-started/quick-start/) Hugo guide 
 - Uses Hugo's asset generator with pipelining, fingerprinting, bundling and minification by default (No webpack, nodejs and other dependencies are required to edit the theme.
 
 ---
-
-
 ## FAQs / How To's Guide
 
 Read Wiki For More Details => **[Arberia-FAQs]()**
-
----
 
 ## Release Changelog
 
 Release ChangeLog has info about stuff added: **[Releases](https://github.com/antedoro/arberia/releases)**
 
-
----
-
 ## Special Thanks
 
-- [**flexsearch.js**](- https://github.com/nextapps-de/flexsearch)
+- [**flexsearch.js**](https://github.com/nextapps-de/flexsearch)
 - [**mark.js**](https://github.com/julmot/mark.js)
 - **All Contributors and Supporters**
-
-
-### Extra shortcodes
-
-There are two extra shortcodes provided (along with the customized figure shortcode):
-
-## About
-
-This is an adaptation of the Hugo theme [Arberia](https://deanattali.com/beautiful-jekyll/) by [Vincenzo Antedoro](https://antedoro.it/contatti/). It supports most of the features of the original theme, and many new features. It has diverged from the Jekyll theme over time, with years of community updates.
-
-## License
-
-MIT Licensed, see [LICENSE](https://github.com/halogenica/Hugo-BeautifulHugo/blob/master/LICENSE).
