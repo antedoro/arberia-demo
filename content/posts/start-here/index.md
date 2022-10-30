@@ -38,7 +38,7 @@ slug: start-here
 
 **Arberia Theme** is a theme for the Hugo static site generator inspired from RealPython site.
 
-![Arberia Theme Screenshot](https://github.com/antedoro/arberia/blob/master/static/img/screenshot.png)
+<!-- ![Arberia Theme Screenshot](https://github.com/antedoro/arberia/blob/master/static/img/screenshot.png) -->
 
 The goal of this project is to add more features and customization to the og theme.
 
@@ -64,17 +64,13 @@ After that copy /exampleSite content on /root_site and add in `config.toml`:
     
 To update theme installed in b mode:
 
-```bash
-cd themes/arberia
-git pull
-```
+    cd themes/arberia
+    git pull
 
 Follow [Quick Start](https://gohugo.io/getting-started/quick-start/) Hugo guide to have a full explanation.
     
 
 ## Features
-
-### Appearance and Layout
 
 - **Responsive layout**
 - **3 Single post view:**
