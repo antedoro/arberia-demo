@@ -1,8 +1,7 @@
 ---
 weight: 1
 title: Start Here
-subtitle: Take your coding skills to the next level with Real Python’s accelerated study
-  plans for beginner, intermediate, and advanced Python developers.
+subtitle: Arberia Theme is a fully responsive tech-blogger theme for Hugo with 4 single post and 2 list layout!! 
 date: 2020-10-15T20:58:53+02:00
 lastmod: 2020-10-15T20:58:53+02:00
 draft: false
@@ -35,8 +34,7 @@ license: ""
 slug: start-here
 ---
 
-
-**Arberia Theme** is a theme for the Hugo static site generator inspired from RealPython site.
+**Arberia Theme** is a theme for the Hugo for tech blogger with 4 single post layout and 2 list layout!
 
 ## Features
 
