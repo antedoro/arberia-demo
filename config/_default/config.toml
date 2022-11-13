@@ -71,7 +71,7 @@ enableRobotsTXT= true
 
 
 ######################################
-#  Menu
+[menu]
 # [[menu.main]]
 # identifier = "home"
 # pre = ""
@@ -263,64 +263,15 @@ weight = 13
 
 # Footer config
 [footer]
-enable = true
-title = "||||"
-greatings = "❤️ Happy Pythoning!"
-  
 [[menu.footer]]
-  name = "Newsletter"
-  link = "newsletter/"
+  name = "Privacy Policy"
+  url = "/policy-privacy"
   weight = 1
 
 [[menu.footer]]
-  name = "Podcast"
-  link = "podcast/"
-  weight = 2
-
-[[menu.footer]]
-  name = "Youtube"
-  link = "youtube/"
-  weight = 3
-
-[[menu.footer]]
-  name = "Twitter"
-  link = "twitter/"
-  weight = 4
-
-[[menu.footer]]
-  name = "Facebook"
-  link = "facebook/"
-  weight = 5
-
-[[menu.footer]]
-  name = "Instagram"
-  link = "Instagram/"
-  weight = 6
-
-[[menu.footer]]
-  name = "Python Tutorials"
-  link = "python-tutorials/"
-  weight = 7
-
-[[menu.footer]]
-  name = "Search"
-  link = "search/"
-  weight = 8
-
-[[menu.footer]]
-  name = "Privacy Policy"
-  link = "privacy-policy/"
-  weight = 9
-
-[[menu.footer]]
-  name = "Energy Policy"
-  link = "energy-policy/"
-  weight = 10
-
-[[menu.footer]]
   name = "Contact"
-  link = "contact/"
-  weight = 11
+  url = "/contact"
+  weight = 2
 
 
 ############################# social site ########################
