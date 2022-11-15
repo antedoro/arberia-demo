@@ -37,7 +37,6 @@ slug: extended-shortcode
 
 **Arberia Theme** provides multiple built-in shortcodes for author convenience and to keep your markdown content clean. To expand your possibility this is an example list of all provided shortcodes.
 
-
 ## Alert
 
 Shortcode to inset varius alert on markdown post use this code:
@@ -67,6 +66,10 @@ Shortcode to inset varius alert on markdown post use this code:
 ## Gallery
 
 {{< gallery dir= "img" >}}
+
+## Image
+
+{{< image "artwork.webp" "Caption">}} 
 
 ## Playlist of videos
 
