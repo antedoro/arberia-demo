@@ -2,7 +2,7 @@ title = "Arberia Theme"
 baseURL = "https://arberiatheme.netlify.app/"
 relativeURLs = "True"
 languageCode = "en-us"
-defaultContentLanguage = 'al'
+defaultContentLanguage = ''
 theme = "arberia"
 
 
