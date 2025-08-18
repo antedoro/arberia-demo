@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 subtitle: "Let me speak about me"
-description: "Descrizione da rivedere se è un doppione subtitle"
+description: "<strong>Vincenzo Antedoro</strong> is the author of Arberia Theme for Hugo. To learn more, visit the <em>About page</em>."
 date: 2022-04-26T21:28:23+02:00
 lastmod: 2022-04-26T21:28:23+02:00
 draft: false
@@ -19,29 +19,15 @@ alt: "IO"
 
 resources:
 - name: "featured-image"
-  src: "tu.jpg"
+  src: "me.webp"
 - name: "featured-image-preview"
-  src: "tu.jpg"
+  src: "me.webp"
 
 weight: 1
-
-# tags: [tag1, tag2, tag3, tag4]
-# categories: [category]
-
-# hiddenFromHomePage: false
-# hiddenFromSearch: false
-
-# featured: false
-# sidebar: false
-# toc: false
-# math:
-#   enable: false
-# lightgallery: false
-# license: ""
 ---
 
-Hi I'm the developer of Arberia Theme for Hugo. If you want to know some about me read this _short bio_.
+Hi I'm the developer of **Arberia Theme for Hugo**. If you want to know some about me read this _short bio_.
 
-My name is **Vincenzo Antedoro**. I'm an engineer who helps those who want to invest in renewables. For the rest he enjoys teaching with the method of learning by doing.
+My name is **Vincenzo Antedoro**. I'm an engineer who helps those who want to invest in renewables. For the rest I enjoy teaching with the method of learning by doing.
 
 Visualize my profile at my personal blog: [https://antedoro.it/about/](https://antedoro.it/about/)

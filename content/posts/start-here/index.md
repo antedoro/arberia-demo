@@ -1,14 +1,15 @@
 ---
-weight: 1
+weight: 870
 title: Start Here
 subtitle: Arberia Theme is a fully responsive tech-blogger theme for Hugo with 4 single post and 2 list layout!! 
-date: 2020-10-15T20:58:53+02:00
-lastmod: 2020-10-15T20:58:53+02:00
+date: 2022-07-30T10:53:18+02:00
+lastmod: 2022-07-30T10:53:18+02:00
 draft: false
 type: standard-view
 
-author: Vincenzo Antedoro
-authorLink: ""
+author: author name
+authorLink: /about
+avatar: /img/me.png
 description: 
 
 tags:
@@ -36,6 +37,11 @@ slug: start-here
 
 **Arberia Theme** is a theme for the Hugo for tech blogger with 4 single post layout and 2 list layout!
 
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+
+<!--more-->
+
 ## Features
 
 - **Responsive layout**
@@ -51,7 +57,7 @@ slug: start-here
 - **List Cathegory/Tag view**
 - **Icon colored submenu**
 - **Table of Contents**
-- **Search** supported by [Flexbox.js](flexbox.js)
+- **Search** supported by [Flexsearch.js](https://github.com/nextapps-de/flexsearch)
 - **[Google Analytics](https://analytics.google.com/analytics)** supported
 - **[Disqus](https://disqus.com)** comment system
 - Social-Media Share buttons on posts
@@ -123,7 +129,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false # da implementare
 
 author: "author"
-avatar: /img/me.jpg  # link to avatar file
+avatar: /img/me.png  # link to avatar file
 authorLink: ""
 description: "Descrizione da rivedere se è un doppione subtitle"
 
@@ -180,7 +186,7 @@ This theme is released under the [GPLv2 license](https://github.com/antedoro/arb
 
 ## FAQs / How To's Guide
 
-Read Wiki For More Details => **[Arberia-FAQs]()**
+Read Wiki For More Details => 
 
 ## Release Changelog
 

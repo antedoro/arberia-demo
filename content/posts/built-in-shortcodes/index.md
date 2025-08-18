@@ -1,15 +1,16 @@
 ---
 title: Build in Shortcodes
 subtitle: Build in Hugo shortcodes
-date: 2022-07-22T08:53:46+02:00
-lastmod: 2022-06-24T18:28:32+02:00
+date: 2022-08-09T10:53:18+02:00
+lastmod: 2022-08-09T10:53:18+02:00
 draft: false
-weight: null
+weight: 960
 type: null
 
-author: author
+author: "author"
+avatar: /img/me.png  # link to avatar file
 authorLink: ""
-description: Descrizione da rivedere se è un doppione subtitle
+description: "Descrizione da rivedere se è un doppione subtitle"
 
 tags:
   - shortcodes
@@ -185,9 +186,9 @@ The rendered output looks like this:
 Example `youtube` input:
 
 ```markdown
-{{</* youtube w7Ft2ymGmfc */>}}
+{{</* youtube KADQd05a_nY */>}}
 ```
 
 The rendered output looks like this:
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube KADQd05a_nY >}}

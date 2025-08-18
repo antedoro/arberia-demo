@@ -6,7 +6,7 @@ lastmod: 2022-07-27T10:53:18+02:00
 draft: false
 type: # Use standard-view on nothing for default or courses - video - landingpage null for list view
   null
-weight: null
+weight: 1000
 
 featured: false
 sidebar: true
@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 author: author
-avatar: /img/me.jpg
+avatar: /img/me.png
 authorLink: ""
 description: Descrizione da rivedere se è un doppione subtitle
 
@@ -56,6 +56,8 @@ playlist:
       duration: null
 ---
 
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 ## Intro
 
@@ -200,7 +202,6 @@ theme = "arberia"
   page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
 
 [markup]
   [markup.tableOfContents]
