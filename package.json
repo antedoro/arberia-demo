@@ -1,9 +1,12 @@
 {
   "name": "arberia-demo",
-  "version": "1.0.0",
-  "description": "This is the Arberia Theme for Hugo demo site. All information here are useful to show the theme features and install the theme if you want.",
+  "version": "1.2.1",
+  "description": "This is the Arberia Theme for Hugo demo site hosted on https://arberiatheme.netlify.app/. ",
   "main": "index.js",
   "scripts": {
+    "serve": "hugo server -D",
+    "build": "hugo --minify",
+    "clean": "rm -rf public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/antedoro/arberia-demo/issues"
