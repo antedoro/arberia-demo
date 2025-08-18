@@ -1,0 +1,6 @@
+# Config "stub" per far riconoscere la cartella config/_default a Netlify
+baseURL = "/"
+
+# Evita l’errore dei taxonomy output format
+ignoreErrors = ["error-output-taxonomy"]
+
