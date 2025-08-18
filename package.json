@@ -1,0 +1,21 @@
+{
+  "name": "arberia-demo",
+  "version": "1.0.0",
+  "description": "This is the Arberia Theme for Hugo demo site. All information here are useful to show the theme features and install the theme if you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antedoro/arberia-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antedoro/arberia-demo/issues"
+  },
+  "homepage": "https://github.com/antedoro/arberia-demo#readme"
+}
