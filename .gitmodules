@@ -1,4 +1,1 @@
 # To update an istalled theme: git submodule update --remote --merge
-[submodule "themes/arberia"]
-	path = themes/arberia
-	url = https://github.com/antedoro/arberia.git
